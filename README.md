@@ -53,7 +53,7 @@ export default () => ({
 <br />
 <br />
 
-[![Dean's github stats](https://github-readme-stats.vercel.app/api?username=deanalifahmad&show_icons=true&theme=radical&hide=["contribs","issues"])](https://github.com/deanalifahmad)
+[![Dean's github stats](https://github-readme-stats.vercel.app/api?username=deanalifahmad25&show_icons=true&theme=radical&hide=["contribs","issues"])](https://github.com/deanalifahmad25)
 
 ---
 
