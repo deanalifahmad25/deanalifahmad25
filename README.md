@@ -57,5 +57,5 @@ export default () => ({
 
 <p align="center"> 
   Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/deanalifahmad/count.svg" />
+  <img src="https://profile-counter.glitch.me/deanalifahmad25/count.svg" />
 </p>
