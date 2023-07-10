@@ -22,7 +22,7 @@ export default () => ({
   pronouns: "He" | "Him",
   webUrl: "https://deanalifahmad.github.io/",
   askMeAbout: [
-    "ui/ux", "webdesign", "webdev", "tech",
+    "backend", "laravel", "php", "webdev", "tech", "ui/ux", "webdesign", 
     "research", "seo"
   ],
   technologies: {
@@ -49,11 +49,8 @@ export default () => ({
 👨‍🎓 Majoring in Information Technology from the Adhirajasa Reswara Sanjaya University (Class of 2019)
 <br />
 <br />
-🎨 Currently working as Freelance UI/UX & Web Designer to create websites and applications that meet clients' needs.
+👨‍💻 Currently working as Backend Developer Intern at BuildWith Angga.
 <br />
-<br />
-🔍 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-
 <br />
 
 [![Dean's github stats](https://github-readme-stats.vercel.app/api?username=deanalifahmad&show_icons=true&theme=radical&hide=["contribs","issues"])](https://github.com/deanalifahmad)
