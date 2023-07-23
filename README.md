@@ -22,7 +22,7 @@ export default () => ({
   pronouns: "He" | "Him",
   webUrl: "https://deanalifahmad.github.io/",
   askMeAbout: [
-    "laravel", "php", "backend", "frontend", "webdev", "tech", "ui/ux", "webdesign", 
+    "backend", "frontend", "webdev", "tech", "ui/ux", "webdesign", 
     "research", "seo"
   ],
   technologies: {
