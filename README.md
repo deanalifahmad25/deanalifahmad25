@@ -35,7 +35,7 @@ export default () => ({
       golang: ["gin", "gorm"],
       php: ["laravel"],
     },
-    databases: ["mysql"],
+    databases: ["mysql", "mongodb"],
     design: ["figma"]
   },
 });
