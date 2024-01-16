@@ -49,7 +49,7 @@ export default () => ({
 👨‍🎓 Majoring in Information Technology from the Adhirajasa Reswara Sanjaya University (Class of 2019)
 <br />
 <br />
-👨‍💻 Currently working as Backend Developer Intern at BuildWith Angga.
+👨‍💻 Currently working as Programmer at PT. Transindo Data Perkasa.
 <br />
 <br />
 
