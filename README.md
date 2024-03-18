@@ -27,7 +27,7 @@ export default () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["react", "vue"],
+      js: ["angular", "react", "vue"],
       css: ["bootstrap", "tailwind"]
     },
     backEnd: {
@@ -35,7 +35,7 @@ export default () => ({
       golang: ["gin", "gorm"],
       php: ["laravel"],
     },
-    databases: ["mysql", "mongodb"],
+    databases: ["mysql", "postgresql", "mongodb"],
     design: ["figma"]
   },
 });
