@@ -20,7 +20,7 @@
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  webUrl: "https://deanalifahmad.github.io/",
+  webUrl: "https://deanalifahmad.vercel.app/"
   askMeAbout: [
     "backend", "frontend", "webdev", "tech", "ui/ux", "webdesign", 
     "research", "seo"
