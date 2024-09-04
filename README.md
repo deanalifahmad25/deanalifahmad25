@@ -46,9 +46,6 @@ export default () => ({
 🧐 A person who likes to learn new things. Always curious to learn cutting-edge technology. I am enthusiastic about web development.
 <br />
 <br />
-👨‍🎓 Majoring in Information Technology from the Adhirajasa Reswara Sanjaya University (Class of 2019)
-<br />
-<br />
 👨‍💻 Currently working as Programmer at PT. Transindo Data Perkasa.
 <br />
 <br />
