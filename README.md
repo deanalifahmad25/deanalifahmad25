@@ -46,7 +46,7 @@ export default () => ({
 🧐 A person who likes to learn new things. Always curious to learn cutting-edge technology. I am enthusiastic about web development.
 <br />
 <br />
-👨‍💻 Currently working as Programmer at PT. Transindo Data Perkasa.
+👨‍💻 Currently working as a Full Stack Developer at PT. Transindo Data Perkasa.
 <br />
 <br />
 
